@@ -6,7 +6,8 @@
 
 </h1>
 <h2 align="center">
-Самозанятый разработчик, создаю веб-интерфейсы, ботов и специализированное ПО. Опыт в full-stack разработке: Python (FastAPI, Django), PHP, JavaScript, асинхронное программирование, работа с базами данных и API. Занимаюсь автоматизацией бизнес-процессов и администрированием серверов. 
+Самозанятый разработчик, создаю веб-интерфейсы, ботов и специализированное ПО. 
+Опыт в full-stack разработке: Python (FastAPI, Django), PHP, JavaScript, асинхронное программирование, работа с базами данных и API. Занимаюсь автоматизацией бизнес-процессов и администрированием серверов. 
  <p align="center">
 <img src="https://img.shields.io/opencollective/backers/shields" />
 <img src="https://img.shields.io/opencollective/sponsors/shields" />
