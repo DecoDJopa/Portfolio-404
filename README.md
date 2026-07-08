@@ -4,7 +4,8 @@
   Добро пожаловать
   <p align='center'>
  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=asirihewage.visitor-badge">
-              <a href="t.me/X00Coder"></a>
+              <a href="t.me/X00Coder"><img src="https://img.shields.io/twitter/follow/asirihewage?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
             <p/>
 </h1>
 <h2 align="center">
