@@ -3,10 +3,7 @@
 <h1 align="center">
   Добро пожаловать
   <p align='center'>
- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=asirihewage.visitor-badge">
-              <a href="t.me/X00Coder"><img src="https://img.shields.io/twitter/follow/asirihewage?style=social&logo=twitter"
-            alt="Telegram X00Coder"></a>
-            <p/>
+
 </h1>
 <h2 align="center">
 Самозанятый разработчик, создаю веб-интерфейсы, ботов и специализированное ПО. Опыт в full-stack разработке: Python (FastAPI, Django), PHP, JavaScript, асинхронное программирование, работа с базами данных и API. Занимаюсь автоматизацией бизнес-процессов и администрированием серверов. 
