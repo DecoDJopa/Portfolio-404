@@ -1,5 +1,4 @@
 <p align="center">
-<img src="telegram.svg" class="photo">
 </p>
 # Мамонов Данила Дмитриевич
 **!Дата рождения:** 25.04.2004
