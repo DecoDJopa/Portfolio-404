@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">
-  Github Readme Resumes 
+  Добро пожаловать
   <p align='center'>
  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=asirihewage.visitor-badge">
               <a href="https://twitter.com/intent/follow?screen_name=asirihewage">
@@ -10,8 +10,7 @@
             <p/>
 </h1>
 <h2 align="center">
-  Github recently introduced Readme Resumes where you can showcase your projects, a note or anything using a readme file.
- 
+Самозанятый разработчик, создаю веб-интерфейсы, ботов и специализированное ПО. Опыт в full-stack разработке: Python (FastAPI, Django), PHP, JavaScript, асинхронное программирование, работа с базами данных и API. Занимаюсь автоматизацией бизнес-процессов и администрированием серверов. 
  <p align="center">
 <img src="https://img.shields.io/opencollective/backers/shields" />
 <img src="https://img.shields.io/opencollective/sponsors/shields" />
