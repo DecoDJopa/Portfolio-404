@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=32&duration=3000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=600&lines=Привет!+Меня+зовут+Данила;Добро+пожаловать+на+мой+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=32&duration=3000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=600&lines=Привет!+Меня+зовут+Жора;Добро+пожаловать+на+мой+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,8 @@
 - 🌱 Изучаю и улучшаю **Асинхронное программирование** и **Проектирование архитектуры систем**
 - 👯 Готов сотрудничать над **Full-Stack проектами** и **Системами автоматизации**
 - 💬 Спроси меня о **Telegram-ботах**, **FastAPI**, **Оптимизации баз данных** или **Администрировании серверов**
-- 📫 Связаться со мной: **mamonov04@bk.ru** или **+7 958 143-48-63**
+- 📫 Связаться со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/X00Coder)
 
 ---
 
